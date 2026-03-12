@@ -6,7 +6,7 @@
     "react": "build/oss-experimental/react",
     "react-dom": "build/oss-experimental/react-dom",
     "react-server-dom-webpack": "build/oss-experimental/react-server-dom-webpack",
-    "scheduler": "build/oss-experimental/scheduler"
+    "scheduler": "build/oss-experimental/scheduler"1
   },
   "sandboxes": ["new"],
   "silent": true
